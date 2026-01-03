@@ -28,3 +28,7 @@ This project demonstrates a QA Automation framework built using **Playwright (Ja
    npx playwright test
 3. View report:
    npx playwright show-report
+
+
+   <img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/fd88e020-556a-47e9-bab1-076aca2a73ea" />
+
